@@ -18,7 +18,6 @@ I'm a passionate technology and design with experience in Product design, data m
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https:// github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
